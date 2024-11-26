@@ -1,0 +1,3 @@
+To jest próba skanera pliku
+to jest druga linijka
+a to trzecia
